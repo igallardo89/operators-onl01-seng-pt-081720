@@ -1,4 +1,4 @@
-speedle = <40 && 60<
+speedle = <40 && >60
 
 
 def unsafe?(speedle)
