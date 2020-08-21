@@ -12,7 +12,7 @@ def not_safe?(speed)
   
   speed == 50 ?  40 < 40 : 60 < 90
   
-  60 < 79 : 35 < 40
+    
 	
 end
 	
